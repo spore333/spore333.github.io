@@ -1,2 +1,3 @@
 to>obj_orb>1070>1024>Hello!>I Love being an Orb!>It's the best!
 to>obj_orb>1200>1310>See that orb over there?>I hate that guy!>Being an orb sucks!
+hw>spr_stone_wall>900>900>4
