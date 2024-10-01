@@ -7,4 +7,6 @@ vw>spr_stone_wall>836>1044>4
 vw>spr_stone_wall>1156>1044>4
 fl>spr_stone_floor_persp>900>900>256>144
 download>image>ripped_wizard.png>ripped_wizard
+download>image>wizard man.jpeg>jack_pic
 io>spr_orb>1100>1300>ripped_wizard>0.2
+io>spr_orb>1300>1230>jack_pic>0.1
