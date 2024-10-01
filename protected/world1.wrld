@@ -10,4 +10,4 @@ download>image>ripped_wizard.png>ripped_wizard
 download>image>big_rock.png>big_rock
 io>spr_orb>1100>1300>ripped_wizard>0.2
 spr>big_rock>1200>1024
-spr>spr_player_down>1200>1100
+spr>spr_player_down>1200>1100>1>0>0
