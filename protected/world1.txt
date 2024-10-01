@@ -1,0 +1,13 @@
+to>spr_orb>1070>1024>Hello!>I Love being an Orb!>It's the best!
+to>spr_orb>1200>1110>See that orb over there?>I hate that guy!>Being an orb sucks!
+to>spr_orb>652>507>I am the orb of the house.>Welcome to my house.
+hw>spr_stone_wall>512>396>4
+vw>spr_stone_wall>448>396>5
+vw>spr_stone_wall>768>396>5
+hw>spr_stone_wall>512>540>1
+hw>spr_stone_wall>704>540>1
+download>image>ripped_wizard.png>ripped_wizard
+download>image>big_rock.png>big_rock
+io>spr_orb>1100>1300>ripped_wizard>0.2
+spr>big_rock>1200>1024
+spr>spr_player_down>1200>1100>1>0>0
