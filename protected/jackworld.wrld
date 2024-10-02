@@ -1,0 +1,12 @@
+download>image>jack_talking.png>jack_talking>3>10>50>100
+download>audio>jack_motd.ogg>jack_motd
+hw>spr_pillar>896>864>1
+hw>spr_pillar>768>936>1
+vw>spr_pillar>1088>864>1
+vw>spr_pillar>1216>936>1
+vw>spr_pillar>1216>1044>1
+vw>spr_pillar>1088>1116>1
+vw>spr_pillar>896>1116>1
+vw>spr_pillar>768>1044>1
+to>spr_orb>1024>972>Welcome to Jack's Awesome World!!!!!!!>Venture north to see what Jack has to say!
+ao>jack_talking>1024>648>jack_motd

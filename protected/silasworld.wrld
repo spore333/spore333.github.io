@@ -6,6 +6,7 @@ vw>spr_stone_wall>448>828>11
 vw>spr_stone_wall>1088>828>11
 hw>spr_stone_wall_window>512>1188>3
 hw>spr_stone_wall_window>896>1188>3
+hw>spr_top_stone_wall>704>1188>3
 fl>spr_stone_floor_persp>448>828>640>396
 to>spr_fella>815>974>test 123>this is a boring message>I had to type it thrice>But this time it will work
 ao>jack_talking>681>980>jack_voice
