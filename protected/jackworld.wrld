@@ -1,5 +1,5 @@
 download>image>jack_talking.png>jack_talking>3>10>50>100
-download>image>dance-happy.gif>emoji>-1
+download>image>guy_walking.png>guy_walk>8>20>64>128
 download>audio>jack_motd.ogg>jack_motd
 download>audio>dustinabaggie.ogg>bmfs
 music>bmfs>0.5
@@ -16,4 +16,4 @@ fl>spr_stone_floor_persp>960>648>128>828
 fl>spr_stone_floor_persp>832>900>384>216
 to>spr_orb>1024>972>Welcome to Jack's Awesome World!!!!!!!>Venture north to see what Jack has to say!
 ao>jack_talking>1024>648>jack_motd
-spr>emoji>672>931>1>0.50>1
+spr>guy_walk>540>931>1>0.20>1
