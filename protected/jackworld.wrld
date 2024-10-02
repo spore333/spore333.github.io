@@ -1,14 +1,19 @@
 download>image>jack_talking.png>jack_talking>3>10>50>100
+download>image>dance-happy.gif>emoji>-1
 download>audio>jack_motd.ogg>jack_motd
 download>audio>dustinabaggie.ogg>bmfs
-music>bmfs>0.4
+music>bmfs>0.5
 hw>spr_pillar>896>864>1
 hw>spr_pillar>768>936>1
-vw>spr_pillar>1088>864>1
-vw>spr_pillar>1216>936>1
-vw>spr_pillar>1216>1044>1
-vw>spr_pillar>1088>1116>1
-vw>spr_pillar>896>1116>1
-vw>spr_pillar>768>1044>1
+hw>spr_pillar>1088>864>1
+hw>spr_pillar>1216>936>1
+hw>spr_pillar>1216>1044>1
+hw>spr_pillar>1088>1116>1
+hw>spr_pillar>896>1116>1
+hw>spr_pillar>768>1044>1
+fl>spr_stone_floor_persp>384>972>1216>72
+fl>spr_stone_floor_persp>960>648>128>828
+fl>spr_stone_floor_persp>832>900>384>216
 to>spr_orb>1024>972>Welcome to Jack's Awesome World!!!!!!!>Venture north to see what Jack has to say!
 ao>jack_talking>1024>648>jack_motd
+spr>emoji>672>931>1>0.50>1
