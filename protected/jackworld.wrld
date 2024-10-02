@@ -1,5 +1,7 @@
 download>image>jack_talking.png>jack_talking>3>10>50>100
 download>audio>jack_motd.ogg>jack_motd
+download>audio>dustinabaggie.ogg>bmfs
+music>bmfs>0.4
 hw>spr_pillar>896>864>1
 hw>spr_pillar>768>936>1
 vw>spr_pillar>1088>864>1
